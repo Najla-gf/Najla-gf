@@ -3,12 +3,12 @@
 ## Acerca de mí
 - 👋 Soy Najla, pero me puedes llamar Nagi.
 - 🌍 Soy de Temuco, Chile. But if you are from another country, we can talk in English! 😎
-- 🎓 Traductora inglés-español de profesión, pero ahora estoy buscando nuevos desafíos y aventuras en el mundo de la tecnología.
+- 🎓 Traductora inglés-español de profesión, pero en búsqueda de nuevos desafíos y aventuras en el mundo de la tecnología.
 
 ## Actualmente
-- 💻 Estoy aprendiendo desarrollo de aplicaciones fullstack con Python.
+- 💻 Finalicé el bootcamp de desarrollo de aplicaciones fullstack con Python.
 - 🤖 Me estoy introduciendo a los Fundamentos de la Inteligencia Artificial.
-- 🔐 También estoy explorando el fascinante campo de la Ciberseguridad.
+- 🔐 También estoy explorando el campo de la Ciberseguridad.
 
 ## Experiencia
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRuOWdwMjI1YXRmZGE2YXFoZWt5dXM0bG90cm8wazZ4NjBxaWk1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jnWQTrGels9HD4cnlk/giphy.gif" alt="Experience" width="180" height="180" align="right">🔸 Aunque soy novata en el mundo del desarrollo de software, mi carrera profesional en la enseñanza del idioma inglés me ha preparado para enfrentar cualquier reto. 
